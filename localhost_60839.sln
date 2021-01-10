@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Yemek_Tarifleri", "http://localhost:60839", "{51ECE6C1-B357-4F9E-B6D5-2822DF134458}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60839"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Belgeler\My Web Sites\Yemek_Tarifleri\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60839\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60839"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Belgeler\My Web Sites\Yemek_Tarifleri\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60839\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\OneDrive\Belgeler\My Web Sites\Yemek_Tarifleri\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51ECE6C1-B357-4F9E-B6D5-2822DF134458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ECE6C1-B357-4F9E-B6D5-2822DF134458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C6625D9-0FE0-4F96-AB1B-0125E52B6335}
+	EndGlobalSection
+EndGlobal
