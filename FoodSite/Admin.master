@@ -41,10 +41,10 @@
                         <td class="auto-style7"></td>
                     </tr>
                     <tr>
-                        <td class="auto-style7" style="border: thin groove #333399"><a href="Kategoriler.aspx">KATEGORİLER</a></td>
+                        <td class="auto-style7" style="border: thin groove #333399"><a href="Kategoriler.aspx" class="auto-style6">KATEGORİLER</a></td>
                     </tr>
                     <tr>
-                        <td class="auto-style7" style="border: thin groove #333399">YEMEKLER</td>
+                        <td class="auto-style7" style="border: thin groove #333399"><a href="Yemekler.aspx" class="auto-style6">YEMEKLER</a></td>
                     </tr>
                     <tr>
                         <td class="auto-style7" style="border: thin groove #333399">YORUMLAR</td>
