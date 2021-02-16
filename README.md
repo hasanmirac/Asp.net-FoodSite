@@ -2,11 +2,11 @@
 
 ASP.Net , Web Form ve Master Page 
 
-## Amaç
+## Projenin amacı
 
-Kullanıcıların yemek tariflerine bakabilceği , tarif önerebileceği , yemeklere puan verebileceği ve yorum yapabileceği bir web sayfasıdır
+Kullanıcıların yemek tariflerine bakabilceği , tarif önerebileceği , yemeklere puan verebileceği ve yorum yapabileceği bir web sayfa oluşturmak
 
-## Görseller
+## Proje ile ilgili görseller
 
 #### Ana Sayfa
 
